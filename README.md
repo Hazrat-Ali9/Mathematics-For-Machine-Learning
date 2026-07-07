@@ -1,4 +1,4 @@
-# 😱 Math-For Machine-Learning 🥶
+# 😱 Math-For-Machine-Learning 🥶
 
 Math-For-Machine-Learning is a structured repository that covers the mathematical foundations essential for AI & ML. From linear algebra and probability to calculus and optimization, this repo bridges the gap between theory and practical implementation in Python, making it easier to understand the math that powers modern machine learning algorithms.
 
